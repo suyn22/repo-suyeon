@@ -1,5 +1,10 @@
 --- 
 # Tiny Tapeout project information
+
+title: "My Project Title"
+
+
+
 project:
   wokwi_id:    0        # If using wokwi, set this to your project's ID
 
